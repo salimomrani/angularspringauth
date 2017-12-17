@@ -1,27 +1,13 @@
-# Angular
+# ssng-project
+This is a sample project using Spring Security and AngularJs.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
+For more information you can read my wordpress post <a href="https://samerabdelkafi.wordpress.com/2016/01/25/secure-angularjs-application-with-spring-security" target="_blank" >here</a>.
 
-## Development server
+<h2>Demo</h2>
+A demo is available at this link <a target="_blank" href="http://tomcat7-samerabdelkafi.rhcloud.com/ssng-project">tomcat7-samerabdelkafi.rhcloud.com/ssng-project</a>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<h2>Deployment</h2>
+This project uses servlet 3 API. Check if your application server or your servlet container supports servlet 3 spec. 
 
-## Code scaffolding
+For Tomcat you can have this information in this link: <a href="http://tomcat.apache.org/whichversion" > tomcat.apache.org/whichversion </a> 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
